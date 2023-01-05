@@ -1,0 +1,14 @@
+label {
+  font-weight: 600;
+}
+body {
+  background: #ffffff;
+  padding-bottom: 100px;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 149px;
+  overflow-x: hidden;
+}
